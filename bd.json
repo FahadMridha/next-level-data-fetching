@@ -2,21 +2,21 @@
   "posts":[
     {
       "id": 1,
-      "title": "Exploring the Wonders of Nature",
+      "title": "Exploring all the Wonders of Nature",
       "description": "Discover the breathtaking beauty of nature with our latest exploration series. From lush forests to serene lakes, embark on a journey of awe-inspiring landscapes.",
-      "likeCount": 120
+      "likeCount": 13000
     },
     {
       "id": 2,
       "title": "The Art of Culinary Delights",
       "description": "Dive into the world of culinary arts as we explore diverse cuisines and cooking techniques. Uncover the secrets behind mouth-watering dishes and elevate your cooking skills.",
-      "likeCount": 85
+      "likeCount": 2001
     },
     {
       "id": 3,
       "title": "Mastering the Python Programming Language",
       "description": "Embark on a coding adventure with our Python masterclass. Learn the fundamentals, tackle real-world challenges, and become a proficient Python developer.",
-      "likeCount": 200
+      "likeCount": 2001
     },
     {
       "id": 4,
